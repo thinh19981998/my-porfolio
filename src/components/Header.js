@@ -76,7 +76,7 @@ const Header = () => {
           </LinkItem>
           <LinkItem
             target='_blank'
-            href='https://github.com/craftzdog/craftzdog-homepage'
+            href='https://github.com/thinh19981998/my-porfolio'
             display='inline-flex'
             alignItems='center'
           >
@@ -110,7 +110,7 @@ const Header = () => {
                 </ReactLink>
                 <MenuItem
                   as={Link}
-                  href='https://github.com/craftzdog/craftzdog-homepage'
+                  href='https://github.com/thinh19981998/my-porfolio'
                 >
                   View Source
                 </MenuItem>
